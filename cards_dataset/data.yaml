@@ -1,0 +1,13 @@
+names: 
+ 0 : ace
+ 1 : king
+ 2 : queen
+ 3 :  jack
+ 4 : ten
+ 5 :  nine
+nc: 6
+path: cards_dataset
+train: images/train
+val: images/val
+test: images/val
+
