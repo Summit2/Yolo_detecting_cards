@@ -11,4 +11,4 @@
 
 Датасет был приведен в формат YOLO
 Для ускорения обучения модели обучал на GPU T4 в Google Collab. 
-В папке с (весами)[[Yolo_detecting_cards/best_weights](https://github.com/Summit2/Yolo_detecting_cards/tree/main/best_weights)] моделей лежат веса yolov8n (nano) и yolov8m (medium)
+В папке с (весами)[https://github.com/Summit2/Yolo_detecting_cards/tree/main/best_weights] моделей лежат веса yolov8n (nano) и yolov8m (medium)
