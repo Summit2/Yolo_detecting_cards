@@ -9,7 +9,7 @@
 5 : nine  
 
 
-Датасет был приведен в формат YOLO  
+Датасет был приведен в формат YOLO [make_dataset.ipynb](https://github.com/Summit2/Yolo_detecting_cards/blob/main/make_dataset.ipynb)
 Для ускорения обучения модели обучал на GPU T4 в Google Collab (100 эпох)  
 
 
